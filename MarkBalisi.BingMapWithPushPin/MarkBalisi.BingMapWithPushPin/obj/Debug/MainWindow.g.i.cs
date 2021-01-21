@@ -10,6 +10,7 @@
 //------------------------------------------------------------------------------
 
 using MarkBalisi.BingMapWithPushPin;
+using Microsoft.Maps.MapControl.WPF;
 using System;
 using System.Diagnostics;
 using System.Windows;
